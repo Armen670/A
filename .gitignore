@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
+  pycache  /
 *.py[cod]
 *$py.class
 
@@ -48,7 +48,7 @@ coverage.xml
 *.cover
 *.py,cover
 .hypothesis/
-.pytest_cache/
+.pytest cache/
 cover/
 
 # Translations
@@ -57,7 +57,7 @@ cover/
 
 # Django stuff:
 *.log
-local_settings.py
+local settings.py
 db.sqlite3
 db.sqlite3-journal
 
@@ -69,18 +69,18 @@ instance/
 .scrapy
 
 # Sphinx documentation
-docs/_build/
+docs/ build/
 
 # PyBuilder
 .pybuilder/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+.ipynb checkpoints
 
 # IPython
-profile_default/
-ipython_config.py
+profile default/
+ipython config.py
 
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
@@ -110,7 +110,7 @@ ipython_config.py
 .pdm.toml
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
-__pypackages__/
+  pypackages  /
 
 # Celery stuff
 celerybeat-schedule
@@ -139,7 +139,7 @@ venv.bak/
 /site
 
 # mypy
-.mypy_cache/
+.mypy cache/
 .dmypy.json
 dmypy.json
 
@@ -150,7 +150,7 @@ dmypy.json
 .pytype/
 
 # Cython debug symbols
-cython_debug/
+cython debug/
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
